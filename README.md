@@ -3,7 +3,6 @@
 # Java Tic Tac Toe Game 🎮
 
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com)
-[![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white)](https://replit.com)
 
 A simple command-line implementation of the classic Tic Tac Toe game written in Java.
 
